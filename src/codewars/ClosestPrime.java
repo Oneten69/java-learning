@@ -1,7 +1,5 @@
 package codewars;
-
 // https://www.codewars.com/kata/5a946d9fba1bb5135100007c
-
 public class ClosestPrime {
     public static int compare(int[] list) {
         int sumPlusStep = 0;
